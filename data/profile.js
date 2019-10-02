@@ -3,18 +3,20 @@ const profileData = {
     "name": "Nagendra Chaudhary",
     "sub_title": "B. Tech undergraduate (Computer Science and Engineering)",
     "about": {
-        "intro": "I am a creative , disciplined , dedicated tech- savvy who likes to engage with new technologies which are combinations of software and electronics like Internet of Things , Robotics , AI and Computer Systems. I have reasonable knowledge in Internet of Things . I have also huge knowledge in Programming, Data Structures and Algorithms. I am also interesting in web development in javascripts , react JS , mysql etc. Due to few of personal interest I used to do some online programming on websites like freeCodeCamp,Hacker Earth etc. I mostly used to stick with internet and computer systems.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
+        "intro": "I am a creative , disciplined , dedicated tech- savvy currently working as Android Developer who likes to engage with new technologies which are combinations of software and electronics like Internet of Things , Robotics , AI and Computer Systems. I have reasonable knowledge in Internet of Things . I have also huge knowledge in Programming, Data Structures and Algorithms. I am also interesting in web development in javascripts , react JS , mysql etc. Due to few of personal interest I used to do some online programming on websites like freeCodeCamp,Hacker Rank etc. I mostly used to stick with internet and computer systems.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
         "contact": {
              "email": "nagendrachaudhary2016@gmail.com",
             "phone": "+917060196036",
             "address": "562, T.R Muniswamappa Building,1st Main 5th cross ,BENGALURU ,KARNATAKA-560066",
-            "portfolio": "https://github.com/nagraj0308"
+            "portfolio": "https://nagraj0308.github.io/resume/"
         }
     },
     "links": [
         { "title": "GitHub", "src": "https://github.com/nagraj0308" },
         { "title": "freeCodeCamp", "src": "https://www.freecodecamp.org/nagraj0308" },
-        { "title": "LinkedIn", "src": "https://www.linkedin.com/in/nagendra-chaudhary-280813b7/" }
+        { "title": "HackerRank", "src": "https://www.hackerrank.com/nagraj0308" },  
+	{ "title": "Twitter", "src": "https://twitter.com/nagraj0308" },  
+        { "title": "LinkedIn", "src": "https://www.linkedin.com/in/nagraj0308" }
     ],
     "education": [
         {
@@ -38,21 +40,28 @@ const profileData = {
             "graph": "false",
             "category": "Programming Languages",
             "topics": [
-                "C", "Arduino","Python","Unix Shell","Java","PHP"
+                "C", "Arduino","Python","Unix Shell","Java","Java Script"
             ]
         },
         {
+            "graph": "false",
+            "category": "Scripting Languages",
+            "topics": [
+                "HTML","CSS"
+            ]
+        },
+	{
             "graph": "false",
             "category": "Databases",
             "topics": [
-                "MySQL"
+                "MySQL","SQLite","Room"
             ]
         },
         {
             "graph": "false",
-            "category": "Frameworks / Libraries",
+            "category": "Technologies/Frameworks / Libraries",
             "topics": [
-                "Chatbot-Development","IFTTT-Implementation"
+                "Android","IoT","Chatbot-Development","IFTTT-Implementation"
             ]
         }
     ],
@@ -79,6 +88,14 @@ const profileData = {
 		}
     ],
     "experiences": [
+	{
+            "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
+            "date": "July 15,2019 (presently)",
+            "details": [
+                "Android App Development",
+                "Using Java"
+            ]
+        },
 	{
             "desc": "<b>Head Organizer </b> of a event at  <a target='_blank' href='https://www.jnanagni.in'> <strong> Jnanagni'17 </strong> </a>",
             "date": "March 2017",

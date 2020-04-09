@@ -131,6 +131,11 @@ const profileData = {
                 {
                      "desc": "Secured <strong> Rank 4933</strong> in <b> Gate CS 2019</b> with <b> Score 496</b>",
                      "date": "March 2019"
+                },
+ 
+                {
+                     "desc": "Secured <strong> Rank 3521</strong> in <b> Gate CS 2020</b> with <b> Score 523</b>",
+                     "date": "March 2020"
                 }
             ]
         }

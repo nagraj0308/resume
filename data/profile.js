@@ -73,8 +73,18 @@ const profileData = {
         }
     ],
     "projects": [{
+            	"title": "androidserver0308",
+		"duration":"April ,2020 - presently working",
+            	"link": "https://github.com/nagraj0308/androidserver0308.git",
+            	"desc": "Server for "myself" android project" 
+        	},{
+            	"title": "myself",
+		"duration":"April ,2020 - presently working",
+            	"link": "https://github.com/nagraj0308/myself.git",
+            	"desc": "App for my college alumini "
+        	},{
             	"title": "Mantis CRS - Maven",
-		"duration":"January, 2019 - till today",
+		"duration":"January, 2019 - presently working",
             	"link": "https://play.google.com/store/apps/details?id=com.buscrs.app",
             	"desc": "Login based configured paid android app bus and cargo booking"
         	},
@@ -94,7 +104,7 @@ const profileData = {
             	"title": "MovieStore",
 		"duration": "August 15, 2019 - August 30,2019",
             	"link": "https://github.com/nagraj0308/MovieStore.git",
-            	"desc": "A learning app to access TMDB api"
+            	"desc": "A app to show various list of movies "
         	},
 		{
             	"title": "Sensor",

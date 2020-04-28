@@ -90,7 +90,7 @@ const profileData = {
         	},
                 {
             	"title": "Microid",
-		"duration": "September, 2019 - January,2020",
+		"duration": "September, 2019 - presently working",
             	"link": "https://play.google.com/store/apps/details?id=com.mantis.blackoasis",
             	"desc": "Creating multiple android apps with single code base by changing product flavour"
         	}
@@ -137,8 +137,8 @@ const profileData = {
             "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
             "date": "July 15,2019 (presently)",
             "details": [
-                "Android App Development",
-                "Using Java"
+                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC"
+                "using libraries RxJava,Retrofit2,Dagger,Icepick,glide and many more in java"
             ]
         },
 	{

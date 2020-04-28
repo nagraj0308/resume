@@ -72,7 +72,25 @@ const profileData = {
             ]
         }
     ],
-    "projects": [
+    "projects": [{
+            	"title": "Mantis CRS - Maven",
+		"duration":"January, 2019 - till today",
+            	"link": "https://play.google.com/store/apps/details?id=com.buscrs.app",
+            	"desc": "Login based configured paid android app bus and cargo booking"
+        	},
+                {
+            	"title": "Microid",
+		"duration": "September, 2019 - January,2020",
+            	"link": "https://play.google.com/store/apps/details?id=com.mantis.blackoasis",
+            	"desc": "Creating multiple android apps with single code base by changing product flavour"
+        	}
+		,{
+            	"title": "HPTDC",
+		"duration": "September, 2019 - January,2020",
+            	"link": "https://play.google.com/store/apps/details?id=nic.hp.hptdc.app",
+            	"desc": "A tourism android app for Himanchal Pradesh Government"
+        	}
+		,
         
         	{
            	 "title": "IOT based Robot Car",

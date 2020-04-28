@@ -89,10 +89,20 @@ const profileData = {
 		"duration": "September, 2019 - January,2020",
             	"link": "https://play.google.com/store/apps/details?id=nic.hp.hptdc.app",
             	"desc": "A tourism android app for Himanchal Pradesh Government"
-        	}
-		,
-        
-        	{
+        	},
+		{
+            	"title": "MovieStore",
+		"duration": "August 15, 2019 - August 30,2019",
+            	"link": "https://github.com/nagraj0308/MovieStore.git",
+            	"desc": "A learning app to access TMDB api"
+        	},
+		{
+            	"title": "Sensor",
+		"duration": "July 25, 2019 - August 15,2019",
+            	"link": "https://github.com/nagraj0308/Sensor.git",
+            	"desc": "App to interact with all android device sensors"
+        	},
+		{
            	 "title": "IOT based Robot Car",
             	"duration": "January , 2018 - April 2018",
 		"link": "https://github.com/nagraj0308/majorproject.git",			

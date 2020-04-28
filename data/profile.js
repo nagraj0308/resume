@@ -73,6 +73,16 @@ const profileData = {
         }
     ],
     "projects": [{
+            	"title": "androidserver0308",
+		"duration":"April ,2020 - presently working",
+            	"link": "https://github.com/nagraj0308/androidserver0308.git",
+            	"desc": "Server for myself android project" 
+        	},{
+            	"title": "myself",
+		"duration":"April ,2020 - presently working",
+            	"link": "https://github.com/nagraj0308/myself.git",
+            	"desc": "App for my college alumini"
+        	},{
             	"title": "Mantis CRS - Maven",
 		"duration":"January, 2019 - till today",
             	"link": "https://play.google.com/store/apps/details?id=com.buscrs.app",

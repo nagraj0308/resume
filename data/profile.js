@@ -137,8 +137,8 @@ const profileData = {
             "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
             "date": "July 15,2019 (presently)",
             "details": [
-                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC"
-                "using libraries RxJava,Retrofit2,Dagger,Icepick,glide and many more in java"
+                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC in java"
+                "using libraries RxJava,Retrofit2,Dagger,AutoValue,Icepick and manymore"
             ]
         },
 	{

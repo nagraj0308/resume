@@ -73,24 +73,14 @@ const profileData = {
         }
     ],
     "projects": [{
-            	"title": "androidserver0308",
-		"duration":"April ,2020 - presently working",
-            	"link": "https://github.com/nagraj0308/androidserver0308.git",
-            	"desc": "Server for "myself" android project" 
-        	},{
-            	"title": "myself",
-		"duration":"April ,2020 - presently working",
-            	"link": "https://github.com/nagraj0308/myself.git",
-            	"desc": "App for my college alumini "
-        	},{
             	"title": "Mantis CRS - Maven",
-		"duration":"January, 2019 - presently working",
+		"duration":"January, 2019 - till today",
             	"link": "https://play.google.com/store/apps/details?id=com.buscrs.app",
             	"desc": "Login based configured paid android app bus and cargo booking"
         	},
                 {
             	"title": "Microid",
-		"duration": "September, 2019 - presently working",
+		"duration": "September, 2019 - January,2020",
             	"link": "https://play.google.com/store/apps/details?id=com.mantis.blackoasis",
             	"desc": "Creating multiple android apps with single code base by changing product flavour"
         	}
@@ -104,7 +94,7 @@ const profileData = {
             	"title": "MovieStore",
 		"duration": "August 15, 2019 - August 30,2019",
             	"link": "https://github.com/nagraj0308/MovieStore.git",
-            	"desc": "A app to show various list of movies "
+            	"desc": "A learning app to access TMDB api"
         	},
 		{
             	"title": "Sensor",
@@ -137,8 +127,8 @@ const profileData = {
             "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
             "date": "July 15,2019 (presently)",
             "details": [
-                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC in java",
-                "using libraries RxJava,Retrofit2,Dagger,AutoValue,Icepick and manymore"
+                "Android App Development",
+                "Using Java"
             ]
         },
 	{

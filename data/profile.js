@@ -138,7 +138,7 @@ const profileData = {
             "date": "July 15,2019 (presently)",
             "details": [
                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java",
-                "using libraries like RxJava,Retrofit2,Dagger,AutoValue,Icepick and manymore popular libraries"
+                "using libraries like RxJava,Retrofit2,Dagger,and manymore popular libraries with MVP architecture"
             ]
         },
 	{

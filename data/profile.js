@@ -54,7 +54,7 @@ const profileData = {
             "graph": "false",
             "category": "Databases",
             "topics": [
-                "MySQL","PostgreySQL","SQLite","Room"
+                "MySQL","PostgreySQL","SQLite","Room","Google Firebase Database"
             ]
         },
         {
@@ -138,7 +138,9 @@ const profileData = {
             "date": "July 15,2019 (presently)",
             "details": [
                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java",
-                "using libraries like RxJava,Retrofit2,Dagger,and manymore popular libraries with MVP architecture"
+                "using libraries like RxJava,Retrofit2,Dagger with MVP architecture",
+		"having used libraries like- Glide,Picasso,Autovalue,OkHttp and many more productive libraries",
+		"using Firebase:FirebaseDatabase,FirebaseStorage,FirebaseCrashlytics,FirebaseAnalytics,FirebaseRemoteConfig and UnityAds"
             ]
         },
 	{

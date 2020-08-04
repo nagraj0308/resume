@@ -70,6 +70,13 @@ const profileData = {
             "topics": [
                 "Node.js"
             ]
+        },
+        {
+            "graph": "false",
+            "category": "IDEs/Editors/Tools",
+            "topics": [
+                "Node.js","Arduino IDE","Visual Studio Code","IntelliJ IDEA","Postman"
+            ]
         }
     ],
     "projects": [{
@@ -138,9 +145,9 @@ const profileData = {
             "date": "July 15,2019 (presently)",
             "details": [
                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java",
-                "using libraries like RxJava,Retrofit2,Dagger with MVP architecture",
-		"having used libraries like- Glide,Picasso,Autovalue,OkHttp and many more productive libraries",
-		"using Firebase:FirebaseDatabase,FirebaseStorage,FirebaseCrashlytics,FirebaseAnalytics,FirebaseRemoteConfig and UnityAds"
+                "using libraries like RxJava2,Retrofit2,Dagger,Room,SQLite,SharedPreference, with MVP architecture",
+		"used libraries:- Glide,Autovalue,OkHttp,ButterKnife,Icepick,Zxing,Material Design,Animinations,Android Component,NavGraph",
+		"using Firebase:- FirebaseDatabase,FirebaseStorage,FirebaseCrashlytics,FirebaseAnalytics,FirebaseRemoteConfig and UnityAds"
             ]
         },
 	{

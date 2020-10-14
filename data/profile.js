@@ -18,7 +18,11 @@ const profileData = {
 	{ "title": "Twitter", "src": "https://twitter.com/nagraj0308" },  
         { "title": "LinkedIn", "src": "https://www.linkedin.com/in/nagraj0308" }
     ],
-    "education": [
+    "education": [ {
+        "alma": "National Institute of Technology, Rourkela",
+        "duration": "2020 - (presently studying)", "std": "M. Tech (IS)",
+        "score": "--"
+        },
         {
             "alma": "Faculty of Engineering and Technology, GKV, Haridwar",
             "duration": "2014 - 2018", "std": "B. Tech (CSE)",
@@ -142,7 +146,7 @@ const profileData = {
     "experiences": [
 	{
             "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
-            "date": "July 15,2019 (presently)",
+            "date": "July 15,2019 - Sept 04,2019",
             "details": [
                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java",
                 "using libraries like RxJava2,Retrofit2,Dagger,Room,SQLite,SharedPreference, with MVP architecture",

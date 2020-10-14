@@ -146,7 +146,7 @@ const profileData = {
     "experiences": [
 	{
             "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
-            "date": "July 15,2019 - Sept 04,2019",
+            "date": "July 15,2019 - Sept 04,2020",
             "details": [
                "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java",
                 "using libraries like RxJava2,Retrofit2,Dagger,Room,SQLite,SharedPreference, with MVP architecture",

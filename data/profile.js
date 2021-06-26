@@ -167,17 +167,21 @@ const profileData = {
         {
             "title": "certifications",
             "body": [
-                {
-                    "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
-                    "date": "Feb-April, 2016"
-                },
-                {
-                    "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
-                    "date": "December, 2017"
+		{
+                    "desc": "a online learning course in <strong> Deep Learning and Applications </strong> hosted by <b> NIT Warangal </b>",
+                    "date": "14-18:Sept, 2020"
                 },
                 {
                     "desc": "a online traning course in <strong> Responsive Web Design </strong> hosted by <b> freeCodeCamp </b>",
                     "date": "June-July, 2019"
+                },
+		{
+                    "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
+                    "date": "December, 2017"
+                },
+                {
+                    "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
+                    "date": "Feb-April, 2016"
                 }
             ]
         },

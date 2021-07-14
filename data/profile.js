@@ -73,10 +73,7 @@ const profileData = {
             "desc": "<b> Android Developer </b> at <a target='_blank' href='http://www.mantistechnologies.com/'> <strong> Mantis Technologies </strong> </a>",
             "date": "July 15,2019 - Sept 04,2020",
             "details": [
-               "working on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java",
-                "using libraries like RxJava2,Retrofit2,Dagger,Room,SQLite,SharedPreference, with MVP architecture",
-		"used libraries:- Glide,Autovalue,OkHttp,ButterKnife,Icepick,Zxing,Material Design,Animinations,Android Component,NavGraph",
-		"using Firebase:- FirebaseDatabase,FirebaseStorage,FirebaseCrashlytics,FirebaseAnalytics,FirebaseRemoteConfig and UnityAds"
+               "worked on projects MANTIS CRS - MAVEN ,MICROID and HPTDC written in java"
             ]
         },
 	{
@@ -96,17 +93,9 @@ const profileData = {
                     "desc": "a online learning course in <strong> Deep Learning and Applications </strong> hosted by <b> NIT Warangal </b>",
                     "date": "14-18:Sept, 2020"
                 },
-                {
-                    "desc": "a online traning course in <strong> Responsive Web Design </strong> hosted by <b> freeCodeCamp </b>",
-                    "date": "June-July, 2019"
-                },
 		{
                     "desc": "a training program in <strong> Python </strong> conducted by <b>IIT Bombay</b>funded by<b>MHRD,India Government</b>",
                     "date": "December, 2017"
-                },
-                {
-                    "desc": "a three months course in<strong> Core Java </strong> from <b> S.K.Infotech,Haridwar </b>",
-                    "date": "Feb-April, 2016"
                 }
             ]
         },

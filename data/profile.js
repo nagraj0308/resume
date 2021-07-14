@@ -44,42 +44,14 @@ const profileData = {
             "graph": "false",
             "category": "Programming Languages",
             "topics": [
-                "C","C++","Java","Arduino","Python","Unix Shell"
+                "C","C++","Python"
             ]
         },
         {
             "graph": "false",
-            "category": "Scripting Languages",
+            "category": "Software?Database",
             "topics": [
-                "HTML","CSS","Java Script","Google Script"
-            ]
-        },
-	{
-            "graph": "false",
-            "category": "Databases",
-            "topics": [
-                "MySQL","PostgreySQL","SQLite","Room","Google Firebase Database"
-            ]
-        },
-        {
-            "graph": "false",
-            "category": "Technologies/Frameworks / Libraries",
-            "topics": [
-                "Android","IoT","Chatbot-Development","IFTTT-Implementation"
-            ]
-        },
-        {
-            "graph": "false",
-            "category": "Backend",
-            "topics": [
-                "Node.js"
-            ]
-        },
-        {
-            "graph": "false",
-            "category": "IDEs/Editors/Tools",
-            "topics": [
-                "Node.js","Arduino IDE","Visual Studio Code","IntelliJ IDEA","Postman"
+                "Android Stdio", "Postman", "Git/Github", "MySQL"
             ]
         }
     ],

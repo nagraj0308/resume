@@ -56,63 +56,16 @@ const profileData = {
         }
     ],
     "projects": [{
-            	"title": "androidserver0308",
-		"duration":"April ,2020 - presently working",
-            	"link": "https://github.com/nagraj0308/androidserver0308.git",
-            	"desc": "Server for myself android project" 
-        	},{
-            	"title": "myself",
-		"duration":"April ,2020 - presently working",
-            	"link": "https://github.com/nagraj0308/myself.git",
-            	"desc": "App for my college alumini"
-        	},{
-            	"title": "Mantis CRS - Maven",
-		"duration":"January, 2019 - till today",
-            	"link": "https://play.google.com/store/apps/details?id=com.buscrs.app",
-            	"desc": "Login based configured paid android app bus and cargo booking"
-        	},
-                {
-            	"title": "Microid",
-		"duration": "September, 2019 - January,2020",
-            	"link": "https://play.google.com/store/apps/details?id=com.mantis.blackoasis",
-            	"desc": "Creating multiple android apps with single code base by changing product flavour"
-        	}
-		,{
-            	"title": "HPTDC",
-		"duration": "September, 2019 - January,2020",
-            	"link": "https://play.google.com/store/apps/details?id=nic.hp.hptdc.app",
-            	"desc": "A tourism android app for Himanchal Pradesh Government"
-        	},
-		{
-            	"title": "MovieStore",
-		"duration": "August 15, 2019 - August 30,2019",
-            	"link": "https://github.com/nagraj0308/MovieStore.git",
-            	"desc": "A learning app to access TMDB api"
-        	},
-		{
-            	"title": "Sensor",
-		"duration": "July 25, 2019 - August 15,2019",
-            	"link": "https://github.com/nagraj0308/Sensor.git",
-            	"desc": "App to interact with all android device sensors"
-        	},
-		{
-           	 "title": "IOT based Robot Car",
-            	"duration": "January , 2018 - April 2018",
-		"link": "https://github.com/nagraj0308/majorproject.git",			
-            	"desc": "A IOT based Robot Car which can be controlled Google Assistant and Web Pages"
-        	},
-		{
-            	"title": "Home Automation using IOT",
-		"duration": "September, 2017 - October,2017",
+            	"title": "Sign Language Recognition",
+		"duration": "March, 2020 - April,2020",
             	"link": "https://github.com/nagraj0308/ReteFacebookTwoLight.git",
-            	"desc": "Controlling Home appliances via FB Messenger, Ubuntu Terminal,Web Browser "
-        	}
-		,
+            	"desc": "In this project, I have created a sign detector that detects sign language"
+        	},
 		{
-           	 "title": "Controlling appliances using Google Assistent",
-            	"duration": "October, 2017 - November, 2017",
+           	 "title": "Cats vs Dogs Classification",
+            	"duration": "April, 2020 - May,2020",
             	"link": "https://github.com/nagraj0308/AdafruitCode.git",
-            	"desc": "A project to controlling things By Google Assistent based on IFTTT statements"       
+            	"desc": "In this project, I have build and train a convolution neural network for classifying images of Cats and Dogs."       
 		}
     ],
     "experiences": [

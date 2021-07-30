@@ -21,7 +21,7 @@ const profileData = {
     "education": [ {
         "alma": "National Institute of Technology, Rourkela",
         "duration": "2020 - (presently studying)", "std": "M. Tech (IS)",
-        "score": "--"
+        "score": "7.78"
         },
         {
             "alma": "Faculty of Engineering and Technology, GKV, Haridwar",

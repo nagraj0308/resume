@@ -59,7 +59,7 @@ const profileData = {
             	"title": "Wine Quality Classification using ANN",
 		"duration": "March, 2020 - April,2020",
             	"link": "https://www.kaggle.com/nagraj0308/winequality",
-            	"desc": "In this project, I have created a sign detector that detects sign language"
+            	"desc": "Classifying wines(good or bad) using Artificial Neural Networks and Kaggle dataset."
         	},
 		{
            	 "title": "Cats vs Dogs Classification",

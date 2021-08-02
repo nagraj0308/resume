@@ -56,9 +56,9 @@ const profileData = {
         }
     ],
     "projects": [{
-            	"title": "Sign Language Recognition",
+            	"title": "Wine Quality Classification using ANN",
 		"duration": "March, 2020 - April,2020",
-            	"link": "https://github.com/nagraj0308/ReteFacebookTwoLight.git",
+            	"link": "https://www.kaggle.com/nagraj0308/winequality",
             	"desc": "In this project, I have created a sign detector that detects sign language"
         	},
 		{

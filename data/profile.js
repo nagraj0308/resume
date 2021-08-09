@@ -3,7 +3,7 @@ const profileData = {
     "name": "Nagendra Chaudhary",
     "sub_title": "B. Tech undergraduate (Computer Science and Engineering)",
     "about": {
-        "intro": "I am a tech currently doing my Masters from NIT Rourkela, likes to engage with technologies like Android, ML, DL, IOT and Computer Systems. I have also huge knowledge in Programming, Data Structures and Algorithms. I mostly used to stick with internet and computer systems or watching stock market.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
+        "intro": "I am a tech currently doing my Masters from NIT Rourkela, likes to engage with technologies like Android, ML, DL, IOT and Computer Systems. I have also reasonable knowledge in Programming, Data Structures and Algorithms. I mostly used to stick with internet and computer systems or watching stock market.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
         "contact": {
              "email": "nagendrachaudhary2016@gmail.com",
             "phone": "+917060196036",

@@ -3,7 +3,7 @@ const profileData = {
     "name": "Nagendra Chaudhary",
     "sub_title": "B. Tech undergraduate (Computer Science and Engineering)",
     "about": {
-        "intro": "I am a creative , disciplined , dedicated tech- savvy currently working doing my Masters from NIT Rourkela who likes to engage with new technologies which are combinations of software and electronics like Internet of Things , Robotics , AI and Computer Systems along with coding. I have also reasonable knowledge in Internet of Things and huge knowledge in Programming, Data Structures and Algorithms. I mostly used to stick with internet and computer systems.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
+        "intro": "I am a tech currently doing my Masters from NIT Rourkela, likes to engage with technologies like Android, ML, DL, IOT and Computer Systems. I have also huge knowledge in Programming, Data Structures and Algorithms. I mostly used to stick with internet and computer systems or watching stock market.For refreshment you see me playing with kids,watching web/TV series,playing mobile games.",
         "contact": {
              "email": "nagendrachaudhary2016@gmail.com",
             "phone": "+917060196036",
@@ -64,8 +64,8 @@ const profileData = {
 		{
            	 "title": "Cats vs Dogs Classification",
             	"duration": "April, 2020 - May,2020",
-            	"link": "https://github.com/nagraj0308/AdafruitCode.git",
-            	"desc": "In this project, I have build and train a convolution neural network for classifying images of Cats and Dogs."       
+            	"link": "https://bit.ly/3jvcPBe",
+            	"desc": "Build and train a CNN Keras model and hosted on Firebase to classify images of Cats and Dogs taken by android phone."       
 		}
     ],
     "experiences": [
